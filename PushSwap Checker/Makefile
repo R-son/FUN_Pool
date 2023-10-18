@@ -1,4 +1,5 @@
-SRC	=	Main.hs
+SRC	=	Main.hs	\
+	Commands.hs
 
 NAME 	=	pushswap_checker
 
