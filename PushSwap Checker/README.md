@@ -10,6 +10,7 @@ Here are the different possible operations:
   swap the first two elements of l_a (nothing will happen if there aren’t enough elements).
 
 • sb
+
   swap the first two elements of l_b (nothing will happen if there aren’t enough elements).
 
 • sc
